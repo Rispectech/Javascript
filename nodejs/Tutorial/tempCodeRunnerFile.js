@@ -1,0 +1,1 @@
+MyEmitter.emit('response');
